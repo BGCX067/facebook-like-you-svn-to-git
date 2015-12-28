@@ -1,0 +1,126 @@
+
+html, body {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 0 none;
+    color: #555555;
+    font-family: arial;
+    font-size: 12px;
+}
+body, img, p, h1, h2, h3, h4, h5, ul, ol, li, form, blockquote {
+    margin: 0;
+    padding: 0;
+}
+p {
+    line-height: 20px;
+    padding: 10px 0;
+}
+h1, h2, h3, h4, h5 {
+    color: #222222;
+    font-family: Georgia;
+    padding: 10px 0;
+}
+ul, ol {
+    list-style: none outside none;
+    padding: 10px 0;
+}
+small {
+    font-size: 11px;
+}
+code {
+    background: none repeat scroll 0 0 #FFFFC1;
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: none;
+}
+a img {
+    border: medium none;
+}
+blockquote p {
+    padding: 5px 0;
+}
+.aligncenter {
+    display: block;
+    margin: 10px auto 20px;
+}
+.alignleft {
+    float: left;
+    margin: 10px 20px 8px 0;
+}
+.alignright {
+    float: right;
+    margin: 10px 0 8px 20px;
+}
+.col-left {
+    float: left;
+}
+.col-right {
+    float: right;
+}
+.more_entries {
+    font-size: 11px;
+}
+.more_entries .wp-pagenavi {
+    clear: both;
+    float: right;
+}
+.more_entries .wp-pagenavi a {
+    text-decoration: none !important;
+}
+.more_entries .wp-pagenavi .current, .more_entries .wp-pagenavi .on, .more_entries .wp-pagenavi a:hover {
+    background: none repeat scroll 0 0 #9F9F9F !important;
+}
+.more_entries .wp-pagenavi a, .more_entries .wp-pagenavi a:link, .more_entries .wp-pagenavi a:visited, .more_entries .wp-pagenavi .current, .more_entries .wp-pagenavi .on, .more_entries .wp-pagenavi span.pages {
+    background: none repeat scroll 0 0 #EEEEEE;
+    border: 1px solid #DDDDDD;
+    color: #666666;
+    line-height: 24px;
+    margin-left: 4px;
+    padding: 4px !important;
+}
+.more_entries .wp-pagenavi .extend {
+    background: none repeat scroll 0 0 transparent;
+    border: medium none;
+}
+.wrap:after {
+    clear: both;
+    content: ".";
+    display: block;
+    height: 0;
+    visibility: hidden;
+}
+.fix {
+    clear: both;
+    height: 1px;
+    margin: -1px 0 0;
+    overflow: hidden;
+}
+.fl {
+    float: left;
+}
+.fr {
+    float: right;
+}
+.ac {
+    text-align: center;
+}
+.ar {
+    text-align: right;
+}
+img.centered {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.wp-caption {
+    background-color: #EEEEEE;
+    border: 1px solid #DDDDDD;
+    padding: 4px 0 5px;
+    text-align: center;
+}
+.wp-caption-text {
+    font-size: 11px;
+    padding: 3px 0 0;
+}

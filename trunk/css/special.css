@@ -1,0 +1,20 @@
+#main form {
+	font-size: 16px;
+	padding:12px;
+}
+#main #register-friendly-url input {
+	border: solid 2px #d9d9d9;
+	font-size: 16px;
+	margin: 5px 0;
+	width: 200px;
+}
+
+#main #register-friendly-url .button {
+	width: auto;
+	background-color: #ff7857;
+	color: #FFFFFF;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 16px;
+	padding: 5px;
+}
